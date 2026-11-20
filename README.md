@@ -1,5 +1,5 @@
 # TabShark
-
+https://i.ibb.co/VYPDC0j7/banner.png
 TabShark opens packet capture files (`.pcap` and `.pcapng`) in your browser and shows what is inside: every packet, every protocol layer, every field, and the raw bytes behind it.
 
 It runs entirely on the page. Nothing is uploaded, and there is no server and no external API.
